@@ -1,0 +1,19 @@
+.header {
+  margin-bottom: 25px;
+}
+
+.input-field {
+  padding: 8px;
+  outline: none;
+}
+
+.input-field {
+  padding: 8px;
+  outline: none;
+}
+
+.todo-items {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
